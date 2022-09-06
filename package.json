@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "5.10.3",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "5.0.0",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-router-dom": "6.3.0",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.10.3/docs/data/material/components/steppers/HorizontalLinearStepper.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "name": "sadpre",
+  "version": "0.0.111"
+}
